@@ -29,7 +29,7 @@
 </header><section>
   <h2>About Ebiklean Global</h2>
   <p>
-    Ebiklean Global is a multi‑service company delivering reliable and innovative solutions across technology, marine engineering, and cleaning services. We serve individuals and businesses with professionalism, technical expertise, and customer satisfaction at the core of everything we do.
+    Ebiklean Global is a multi-service company delivering reliable and innovative solutions across technology, marine engineering, and cleaning services. We serve individuals and businesses with professionalism, technical expertise, and customer satisfaction at the core of everything we do.
   </p>
 </section><section>
   <h2>Our Services</h2>
@@ -68,7 +68,7 @@
 </section><section class="why">
   <h2>Why Choose Us</h2>
   <ul>
-    <li>Multi‑service expertise under one trusted brand</li>
+    <li>Multi-service expertise under one trusted brand</li>
     <li>Skilled professionals across all service areas</li>
     <li>Reliable, affordable, and timely service delivery</li>
     <li>Strong focus on quality and customer satisfaction</li>
@@ -87,7 +87,7 @@
   <p>Contact Ebiklean Global today for professional services and reliable support.</p>
 </section><footer>
   <p>© 2026 Ebiklean Global. All Rights Reserved.</p>
-</footer><a href="https://wa.me/2347031204549" class="whatsapp" target="_blank" aria-label="Chat on WhatsApp">💬</a>
+</footer><!-- WhatsApp Floating Button with Auto-Message --><a href="https://wa.me/2347031204549?text=Hello%20Ebiklean%20Global,%20I%20would%20like%20to%20inquire%20about%20your%20services." class="whatsapp" target="_blank" aria-label="Chat on WhatsApp">💬</a>
 
 </body>
 </html>
